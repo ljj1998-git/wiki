@@ -290,3 +290,38 @@ Identify and stop the process that's listening on port 8081 or configure this ap
 2023-07-16 20:28:11.188 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
 2023-07-16 20:29:45.608 INFO  com.zaxxer.hikari.HikariDataSource                :350  [32m                  [0;39m HikariPool-1 - Shutdown initiated...
 2023-07-16 20:29:45.614 INFO  com.zaxxer.hikari.HikariDataSource                :352  [32m                  [0;39m HikariPool-1 - Shutdown completed.
+2023-07-17 14:03:29.880 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 17.0.7 on DESKTOP-AVM6SQ1 with PID 22704 (E:\study\wiki\wiki\target\classes started by admin in E:\study\wiki\wiki)
+2023-07-17 14:03:29.882 INFO  com.example.wiki.config.WikiApplication           :631  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-17 14:03:29.945 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-17 14:03:29.945 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-17 14:03:31.308 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-17 14:03:31.318 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-17 14:03:31.319 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-17 14:03:31.319 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.76]
+2023-07-17 14:03:31.420 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-17 14:03:31.421 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1475 ms
+2023-07-17 14:03:32.138 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-17 14:03:32.157 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-17 14:03:32.183 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-07-17 14:03:32.200 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 2.821 seconds (JVM running for 4.219)
+2023-07-17 14:03:32.204 INFO  com.example.wiki.config.WikiApplication           :25   [32m                  [0;39m 启动成功！！
+2023-07-17 14:03:32.204 INFO  com.example.wiki.config.WikiApplication           :26   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-07-17 14:03:50.143 INFO  com.example.wiki.config.WikiApplication           :55   [32m                  [0;39m Starting WikiApplication using Java 17.0.7 on DESKTOP-AVM6SQ1 with PID 24104 (E:\study\wiki\wiki\target\classes started by admin in E:\study\wiki\wiki)
+2023-07-17 14:03:50.145 INFO  com.example.wiki.config.WikiApplication           :631  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-07-17 14:03:50.213 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-07-17 14:03:50.213 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-07-17 14:03:51.633 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8081 (http)
+2023-07-17 14:03:51.645 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8081"]
+2023-07-17 14:03:51.647 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-07-17 14:03:51.647 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.76]
+2023-07-17 14:03:51.767 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-07-17 14:03:51.768 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1552 ms
+2023-07-17 14:03:52.703 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-07-17 14:03:52.725 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8081"]
+2023-07-17 14:03:52.751 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8081 (http) with context path ''
+2023-07-17 14:03:52.768 INFO  com.example.wiki.config.WikiApplication           :61   [32m                  [0;39m Started WikiApplication in 3.223 seconds (JVM running for 5.026)
+2023-07-17 14:03:52.774 INFO  com.example.wiki.config.WikiApplication           :25   [32m                  [0;39m 启动成功！！
+2023-07-17 14:03:52.775 INFO  com.example.wiki.config.WikiApplication           :26   [32m                  [0;39m 地址: 	http://127.0.0.1:8081
+2023-07-17 14:03:55.865 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-17 14:03:55.865 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-07-17 14:03:55.867 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
